@@ -1,0 +1,14 @@
+C:\Users\ricBi\source\repos\Biblioteca\obj\Debug\net6.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricBi\source\repos\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\ricBi\source\repos\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfo.cs
+C:\Users\ricBi\source\repos\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\ricBi\source\repos\Biblioteca\bin\Debug\net6.0\Biblioteca.exe
+C:\Users\ricBi\source\repos\Biblioteca\bin\Debug\net6.0\Biblioteca.deps.json
+C:\Users\ricBi\source\repos\Biblioteca\bin\Debug\net6.0\Biblioteca.runtimeconfig.json
+C:\Users\ricBi\source\repos\Biblioteca\bin\Debug\net6.0\Biblioteca.dll
+C:\Users\ricBi\source\repos\Biblioteca\bin\Debug\net6.0\Biblioteca.pdb
+C:\Users\ricBi\source\repos\Biblioteca\obj\Debug\net6.0\Biblioteca.dll
+C:\Users\ricBi\source\repos\Biblioteca\obj\Debug\net6.0\refint\Biblioteca.dll
+C:\Users\ricBi\source\repos\Biblioteca\obj\Debug\net6.0\Biblioteca.pdb
+C:\Users\ricBi\source\repos\Biblioteca\obj\Debug\net6.0\Biblioteca.genruntimeconfig.cache
+C:\Users\ricBi\source\repos\Biblioteca\obj\Debug\net6.0\ref\Biblioteca.dll
